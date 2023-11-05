@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">895795413657</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbsa3SGulkQraToGhzwj_3i7rSZALboxk</string>
+    <string name="google_app_id" translatable="false">1:895795413657:android:d72f5c6f1239fe3be32e08</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbsa3SGulkQraToGhzwj_3i7rSZALboxk</string>
+    <string name="google_storage_bucket" translatable="false">androidquiz-33817.appspot.com</string>
+    <string name="project_id" translatable="false">androidquiz-33817</string>
+</resources>

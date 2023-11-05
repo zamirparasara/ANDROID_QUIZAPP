@@ -1,0 +1,514 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.9.0] D:\Quizzed-master\caches\transforms-3\47504945ec2795ced12c542d4c79ada9\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Quizzed-master\caches\transforms-3\261b95ef2c6765d239046b5e0f6a9048\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Quizzed-master\caches\transforms-3\8724e99ae77815ddeb8ad74ae4d3b3b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Quizzed-master\caches\transforms-3\3bf7c1a96e7ba95fea184cfb18b19769\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Quizzed-master\caches\transforms-3\cee9e45dc88505331d692e893cb9a1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Quizzed-master\caches\transforms-3\aeceae4f7dc78390a1d80802c91b4bd5\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.1.0] D:\Quizzed-master\caches\transforms-3\0e1e3daab91e0173b4c63aed02f93a6d\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] D:\Quizzed-master\caches\transforms-3\18f0b33028262785518f4a0acf15217a\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Quizzed-master\caches\transforms-3\628beaac7a36663c759b1352d5773703\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Quizzed-master\caches\transforms-3\2c03996b9a352bc0fb3992b91730ac06\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\Quizzed-master\caches\transforms-3\46399da96015f11009de8820136897c8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Quizzed-master\caches\transforms-3\486156063e2bdb937a296cd5db75a3df\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] D:\Quizzed-master\caches\transforms-3\77cd2d40c3abaab290464021b9228728\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Quizzed-master\caches\transforms-3\00f362275b5b41de81a542adb0cbe811\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Quizzed-master\caches\transforms-3\a441b619f55239b1fb44220f9787aab7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Quizzed-master\caches\transforms-3\646e3d51ef78ca6d072ee6b808318dbd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Quizzed-master\caches\transforms-3\0a0a3f37de7f0dc96c753e1212649977\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Quizzed-master\caches\transforms-3\4aeb16f67ef584271a5c4c2887253910\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Quizzed-master\caches\transforms-3\b5475868d078fad936d7f368f66123b7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Quizzed-master\caches\transforms-3\a9378ef5b791d0b14873d60dc55980d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Quizzed-master\caches\transforms-3\13ae28fa87faa778c66a70c5254944a6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Quizzed-master\caches\transforms-3\1380116aed93ec5a5725b1adf708ddd6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Quizzed-master\caches\transforms-3\89aadf8294decff3014b4f81d7c09778\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Quizzed-master\caches\transforms-3\743c149ce7c329d5ba09f3d00281a139\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] D:\Quizzed-master\caches\transforms-3\c4bcd66d98f00d436690274783f12957\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Quizzed-master\caches\transforms-3\b29faaf9be511d5ed0b7d068d1fd6231\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Quizzed-master\caches\transforms-3\2f235ee30639b867b6ea7a35cb55c380\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Quizzed-master\caches\transforms-3\c765db72fb2cdde26e8e3191c7c93581\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] D:\Quizzed-master\caches\transforms-3\e197352c62f05099055d39cce50c1430\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.52.1] D:\Quizzed-master\caches\transforms-3\3d96a4f5c79615b274b1e5d89145fd39\transformed\grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Quizzed-master\caches\transforms-3\79061f70b8abde0939538a5a4ca5527d\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Quizzed-master\caches\transforms-3\07f5f2c88fc631abfe58466c19572a1d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Quizzed-master\caches\transforms-3\8e9660fa7ff69408a9c099de36372957\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Quizzed-master\caches\transforms-3\62bd1fbbdc813c9516e650cd0b6a1b0d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Quizzed-master\caches\transforms-3\2bd2d9203e77db5d0661d058af927fbe\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Quizzed-master\caches\transforms-3\9aa2c521f0d640410abcf075b80e4002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] D:\Quizzed-master\caches\transforms-3\babf78bbd7313cac30077c1af1d785a3\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Quizzed-master\caches\transforms-3\0bf4716b4b7525b8caaf4ed82e8c8ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Quizzed-master\caches\transforms-3\b08aa076eb701e8e7efc44a52062274f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Quizzed-master\caches\transforms-3\b24c7f4a3f666ecb3579ebd2f6e6a44a\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Quizzed-master\caches\transforms-3\b87897fa34e26ff134670cc8e7b19243\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Quizzed-master\caches\transforms-3\ab1d6ab98bf5fbb2b73c974fae3bd373\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Quizzed-master\caches\transforms-3\3575c0946a4c863b02a734e349b444d8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Quizzed-master\caches\transforms-3\9ef7fa9871ec9889705b3c650e2634a5\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Quizzed-master\caches\transforms-3\e141061cce802c413db4e810b9904702\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\Quizzed-master\caches\transforms-3\698db7bb11c68c03ba8864ea5e9affd0\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.material:material:1.9.0] D:\Quizzed-master\caches\transforms-3\47504945ec2795ced12c542d4c79ada9\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] D:\Quizzed-master\caches\transforms-3\47504945ec2795ced12c542d4c79ada9\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Quizzed-master\caches\transforms-3\261b95ef2c6765d239046b5e0f6a9048\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Quizzed-master\caches\transforms-3\261b95ef2c6765d239046b5e0f6a9048\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.play:integrity:1.1.0] D:\Quizzed-master\caches\transforms-3\0e1e3daab91e0173b4c63aed02f93a6d\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] D:\Quizzed-master\caches\transforms-3\0e1e3daab91e0173b4c63aed02f93a6d\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] D:\Quizzed-master\caches\transforms-3\18f0b33028262785518f4a0acf15217a\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] D:\Quizzed-master\caches\transforms-3\18f0b33028262785518f4a0acf15217a\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Quizzed-master\caches\transforms-3\628beaac7a36663c759b1352d5773703\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Quizzed-master\caches\transforms-3\628beaac7a36663c759b1352d5773703\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\Quizzed-master\caches\transforms-3\46399da96015f11009de8820136897c8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\Quizzed-master\caches\transforms-3\46399da96015f11009de8820136897c8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Quizzed-master\caches\transforms-3\b08aa076eb701e8e7efc44a52062274f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Quizzed-master\caches\transforms-3\b08aa076eb701e8e7efc44a52062274f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:13:9-44
+	tools:targetApi
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:11:9-39
+	android:allowBackup
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:15:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.quiziapp.ProfileActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:17:9-52
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:17:19-50
+activity#com.example.quiziapp.SupportActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.example.quiziapp.ResultActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.quiziapp.QuestionActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:20:9-21:52
+	android:theme
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:21:19-50
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.quiziapp.SignUpActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.quiziapp.LoginIntro
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:24:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.quiziapp.LoginActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:32:19-48
+activity#com.example.quiziapp.MainActivity
+ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml:33:19-47
+uses-sdk
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] D:\Quizzed-master\caches\transforms-3\47504945ec2795ced12c542d4c79ada9\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] D:\Quizzed-master\caches\transforms-3\47504945ec2795ced12c542d4c79ada9\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Quizzed-master\caches\transforms-3\261b95ef2c6765d239046b5e0f6a9048\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Quizzed-master\caches\transforms-3\261b95ef2c6765d239046b5e0f6a9048\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Quizzed-master\caches\transforms-3\8724e99ae77815ddeb8ad74ae4d3b3b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Quizzed-master\caches\transforms-3\8724e99ae77815ddeb8ad74ae4d3b3b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Quizzed-master\caches\transforms-3\3bf7c1a96e7ba95fea184cfb18b19769\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Quizzed-master\caches\transforms-3\3bf7c1a96e7ba95fea184cfb18b19769\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Quizzed-master\caches\transforms-3\cee9e45dc88505331d692e893cb9a1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Quizzed-master\caches\transforms-3\cee9e45dc88505331d692e893cb9a1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Quizzed-master\caches\transforms-3\aeceae4f7dc78390a1d80802c91b4bd5\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Quizzed-master\caches\transforms-3\aeceae4f7dc78390a1d80802c91b4bd5\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] D:\Quizzed-master\caches\transforms-3\0e1e3daab91e0173b4c63aed02f93a6d\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] D:\Quizzed-master\caches\transforms-3\0e1e3daab91e0173b4c63aed02f93a6d\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] D:\Quizzed-master\caches\transforms-3\18f0b33028262785518f4a0acf15217a\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] D:\Quizzed-master\caches\transforms-3\18f0b33028262785518f4a0acf15217a\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Quizzed-master\caches\transforms-3\628beaac7a36663c759b1352d5773703\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Quizzed-master\caches\transforms-3\628beaac7a36663c759b1352d5773703\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Quizzed-master\caches\transforms-3\2c03996b9a352bc0fb3992b91730ac06\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Quizzed-master\caches\transforms-3\2c03996b9a352bc0fb3992b91730ac06\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\Quizzed-master\caches\transforms-3\46399da96015f11009de8820136897c8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] D:\Quizzed-master\caches\transforms-3\46399da96015f11009de8820136897c8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Quizzed-master\caches\transforms-3\486156063e2bdb937a296cd5db75a3df\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Quizzed-master\caches\transforms-3\486156063e2bdb937a296cd5db75a3df\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] D:\Quizzed-master\caches\transforms-3\77cd2d40c3abaab290464021b9228728\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] D:\Quizzed-master\caches\transforms-3\77cd2d40c3abaab290464021b9228728\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Quizzed-master\caches\transforms-3\00f362275b5b41de81a542adb0cbe811\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Quizzed-master\caches\transforms-3\00f362275b5b41de81a542adb0cbe811\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Quizzed-master\caches\transforms-3\a441b619f55239b1fb44220f9787aab7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Quizzed-master\caches\transforms-3\a441b619f55239b1fb44220f9787aab7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Quizzed-master\caches\transforms-3\646e3d51ef78ca6d072ee6b808318dbd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Quizzed-master\caches\transforms-3\646e3d51ef78ca6d072ee6b808318dbd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Quizzed-master\caches\transforms-3\0a0a3f37de7f0dc96c753e1212649977\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\Quizzed-master\caches\transforms-3\0a0a3f37de7f0dc96c753e1212649977\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Quizzed-master\caches\transforms-3\4aeb16f67ef584271a5c4c2887253910\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\Quizzed-master\caches\transforms-3\4aeb16f67ef584271a5c4c2887253910\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Quizzed-master\caches\transforms-3\b5475868d078fad936d7f368f66123b7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Quizzed-master\caches\transforms-3\b5475868d078fad936d7f368f66123b7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Quizzed-master\caches\transforms-3\a9378ef5b791d0b14873d60dc55980d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Quizzed-master\caches\transforms-3\a9378ef5b791d0b14873d60dc55980d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Quizzed-master\caches\transforms-3\13ae28fa87faa778c66a70c5254944a6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Quizzed-master\caches\transforms-3\13ae28fa87faa778c66a70c5254944a6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Quizzed-master\caches\transforms-3\1380116aed93ec5a5725b1adf708ddd6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Quizzed-master\caches\transforms-3\1380116aed93ec5a5725b1adf708ddd6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Quizzed-master\caches\transforms-3\89aadf8294decff3014b4f81d7c09778\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Quizzed-master\caches\transforms-3\89aadf8294decff3014b4f81d7c09778\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Quizzed-master\caches\transforms-3\743c149ce7c329d5ba09f3d00281a139\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Quizzed-master\caches\transforms-3\743c149ce7c329d5ba09f3d00281a139\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\Quizzed-master\caches\transforms-3\c4bcd66d98f00d436690274783f12957\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\Quizzed-master\caches\transforms-3\c4bcd66d98f00d436690274783f12957\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Quizzed-master\caches\transforms-3\b29faaf9be511d5ed0b7d068d1fd6231\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Quizzed-master\caches\transforms-3\b29faaf9be511d5ed0b7d068d1fd6231\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Quizzed-master\caches\transforms-3\2f235ee30639b867b6ea7a35cb55c380\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Quizzed-master\caches\transforms-3\2f235ee30639b867b6ea7a35cb55c380\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Quizzed-master\caches\transforms-3\c765db72fb2cdde26e8e3191c7c93581\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Quizzed-master\caches\transforms-3\c765db72fb2cdde26e8e3191c7c93581\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] D:\Quizzed-master\caches\transforms-3\e197352c62f05099055d39cce50c1430\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] D:\Quizzed-master\caches\transforms-3\e197352c62f05099055d39cce50c1430\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] D:\Quizzed-master\caches\transforms-3\3d96a4f5c79615b274b1e5d89145fd39\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] D:\Quizzed-master\caches\transforms-3\3d96a4f5c79615b274b1e5d89145fd39\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Quizzed-master\caches\transforms-3\79061f70b8abde0939538a5a4ca5527d\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\Quizzed-master\caches\transforms-3\79061f70b8abde0939538a5a4ca5527d\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Quizzed-master\caches\transforms-3\07f5f2c88fc631abfe58466c19572a1d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Quizzed-master\caches\transforms-3\07f5f2c88fc631abfe58466c19572a1d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Quizzed-master\caches\transforms-3\8e9660fa7ff69408a9c099de36372957\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Quizzed-master\caches\transforms-3\8e9660fa7ff69408a9c099de36372957\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Quizzed-master\caches\transforms-3\62bd1fbbdc813c9516e650cd0b6a1b0d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\Quizzed-master\caches\transforms-3\62bd1fbbdc813c9516e650cd0b6a1b0d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Quizzed-master\caches\transforms-3\2bd2d9203e77db5d0661d058af927fbe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Quizzed-master\caches\transforms-3\2bd2d9203e77db5d0661d058af927fbe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Quizzed-master\caches\transforms-3\9aa2c521f0d640410abcf075b80e4002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Quizzed-master\caches\transforms-3\9aa2c521f0d640410abcf075b80e4002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] D:\Quizzed-master\caches\transforms-3\babf78bbd7313cac30077c1af1d785a3\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] D:\Quizzed-master\caches\transforms-3\babf78bbd7313cac30077c1af1d785a3\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Quizzed-master\caches\transforms-3\0bf4716b4b7525b8caaf4ed82e8c8ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Quizzed-master\caches\transforms-3\0bf4716b4b7525b8caaf4ed82e8c8ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Quizzed-master\caches\transforms-3\b08aa076eb701e8e7efc44a52062274f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Quizzed-master\caches\transforms-3\b08aa076eb701e8e7efc44a52062274f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Quizzed-master\caches\transforms-3\b24c7f4a3f666ecb3579ebd2f6e6a44a\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Quizzed-master\caches\transforms-3\b24c7f4a3f666ecb3579ebd2f6e6a44a\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Quizzed-master\caches\transforms-3\b87897fa34e26ff134670cc8e7b19243\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Quizzed-master\caches\transforms-3\b87897fa34e26ff134670cc8e7b19243\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Quizzed-master\caches\transforms-3\ab1d6ab98bf5fbb2b73c974fae3bd373\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\Quizzed-master\caches\transforms-3\ab1d6ab98bf5fbb2b73c974fae3bd373\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Quizzed-master\caches\transforms-3\3575c0946a4c863b02a734e349b444d8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Quizzed-master\caches\transforms-3\3575c0946a4c863b02a734e349b444d8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Quizzed-master\caches\transforms-3\9ef7fa9871ec9889705b3c650e2634a5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Quizzed-master\caches\transforms-3\9ef7fa9871ec9889705b3c650e2634a5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Quizzed-master\caches\transforms-3\e141061cce802c413db4e810b9904702\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Quizzed-master\caches\transforms-3\e141061cce802c413db4e810b9904702\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\Quizzed-master\caches\transforms-3\698db7bb11c68c03ba8864ea5e9affd0\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\Quizzed-master\caches\transforms-3\698db7bb11c68c03ba8864ea5e9affd0\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZAMIR\ANDROID_APP\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] D:\Quizzed-master\caches\transforms-3\270ad1900167ac94cf954d63d2ef9724\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:12:17-116
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] D:\Quizzed-master\caches\transforms-3\cc7120c956760a64897090e3e962b9d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] D:\Quizzed-master\caches\transforms-3\3d96a4f5c79615b274b1e5d89145fd39\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] D:\Quizzed-master\caches\transforms-3\3d96a4f5c79615b274b1e5d89145fd39\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] D:\Quizzed-master\caches\transforms-3\d05de9400b04dac13bf9f921d602776e\transformed\firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] D:\Quizzed-master\caches\transforms-3\b015ba980af36ea4d63eaa8c97bafa41\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:13:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.1] D:\Quizzed-master\caches\transforms-3\e6aba221ae63a4f533c9ea7d7a86cf60\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:15:17-113
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] D:\Quizzed-master\caches\transforms-3\1381e0bed5dd1681f7e31154e89796c8\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:18:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] D:\Quizzed-master\caches\transforms-3\444ee1624814000d8ad0c7423b4d7cc3\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Quizzed-master\caches\transforms-3\a6705f9cebd2e5b8438da1ac1bd505cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] D:\Quizzed-master\caches\transforms-3\8e0ac8f6f2ad5047d1007f0b10361e11\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Quizzed-master\caches\transforms-3\9de22f89e723f7d7f7db082da9080774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Quizzed-master\caches\transforms-3\bd6e82a852307ad51cf1082d6751c6ad\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.quiziapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.quiziapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] D:\Quizzed-master\caches\transforms-3\9e0fb4585aafd9df8adcd557ef135693\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] D:\Quizzed-master\caches\transforms-3\09c1aee62d2011dfc5a0f859c30e21bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
